@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "assuredtracking-a65fe": {
+      "hosting": {
+        "assuredtracking": [
+          "assuredtracking-a65fe"
+        ]
+      }
+    }
+  }
+}
